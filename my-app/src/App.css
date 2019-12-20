@@ -99,11 +99,11 @@ h5 {
 }
 
 .followerPic {
-	width: 90%;
-	height: 90%;
+	width: 100%;
+	height: 100%;
 	border-radius: 5px;
 	margin: 5%;
-	margin-left: 2%;
+	margin-left:.4%;
 }
 
 .url {
